@@ -1,0 +1,4 @@
+interface:
+  display_name: "用 Mini 项目学习架构"
+  short_description: "提取真实项目主流程，构建可运行的 Mini 项目并验证关键架构语义"
+  default_prompt: "使用 $learn-architecture-by-mini 分析这个项目，保留主流程并构建一个可运行的 mini 项目帮助我学习。"
